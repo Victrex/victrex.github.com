@@ -42,7 +42,7 @@ let t4 = gsap.timeline({
     }
 });
 
-t4.from(".made h2",{ rotationX:90, y:-50, z:10, opacity:0, duration: 0.5}, "=0.10")
+t4.from(".made h2",{ rotationX:90, y:-50, z:10, opacity:0, duration: 0.5}, "=0.5")
 t4.from(".ab1",{rotationX:90, y:-40, z:10, opacity:0, duration: 0.5})
 t4.from(".ab2",{rotationX:90, y:-40, z:10, opacity:0, duration: 0.5})
 t4.from(".ab3",{rotationX:90, y:-40, z:10, opacity:0, duration: 0.5})
