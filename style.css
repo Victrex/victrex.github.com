@@ -2,8 +2,12 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
-h1{
-    text-align: center;
+div{
     width: 80%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    font-size: 4em;
 }
